@@ -118,7 +118,7 @@ Once Git is installed, clone this repository to your local directory:
 
 
 
-git clone https://github.com/your-username/your-repository-name.git
+git clone https://github.com/szczecin666/Simple-Login-Page-Template-HTML-CSS-.git
 
 
 
