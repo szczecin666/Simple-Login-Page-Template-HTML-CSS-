@@ -140,6 +140,8 @@ xdg-open index.html
 
 Author
 
+![](https://komarev.com/ghpvc/?username=szczecin666&color=blueviolet)
+
 
 
 szenix/szczecin666
